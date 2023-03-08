@@ -1,7 +1,7 @@
 # Seeing Beyond the Brain: Masked Modeling Conditioned Diffusion Model for Human Vision Decoding
-<p align="center">
+ 
 ![](first_fig.png)
-</p>
+ 
 
 ## MinD-Vis
 **MinD-Vis** is a framework for decoding human visual stimuli from brain recording.
