@@ -1,6 +1,6 @@
 # Seeing Beyond the Brain: Masked Modeling Conditioned Diffusion Model for Human Vision Decoding
 <p align="center">
-<img src=assets/first_fig.png />
+![](first_fig.png)
 </p>
 
 ## MinD-Vis
